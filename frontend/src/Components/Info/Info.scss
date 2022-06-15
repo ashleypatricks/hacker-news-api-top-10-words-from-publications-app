@@ -1,0 +1,14 @@
+.container {
+  display: flex;
+  justify-content: space-evenly;
+
+  .colum-container {
+    display: flex;
+    flex-direction: column;
+
+    .word-list-container {
+      display: flex;
+      flex: 1;
+    }
+  }
+}
