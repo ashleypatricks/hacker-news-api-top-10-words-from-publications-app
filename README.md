@@ -13,15 +13,13 @@ The api is able to query the Hacker News API & also the Hacker News Website in o
 
 ## Dependencies & Application Run & Test
 
-The main dependency to run this app is Docker & Docker Compose. Simply run the following command to get the app up and running the script in the root director:
+The main dependency to run this app is Docker & Docker Compose. Simply run the following command to get the app up and running the script in the root directory:
 
 `./start.sh`
 
 If you get a permission denied error then execute this:
 
 `chmod +x start.sh`
-
-`docker-compose up --build`
 
 This will build, bootstrap and start both applications on your machine.
 
