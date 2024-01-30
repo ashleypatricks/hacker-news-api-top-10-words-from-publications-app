@@ -1,4 +1,4 @@
-# ONE PLANET CROWD CODING CHALLENGE
+# Hacker News API: Top 10 Words From Publications App
 
 ## Applications
 
