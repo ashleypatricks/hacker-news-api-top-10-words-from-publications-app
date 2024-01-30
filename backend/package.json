@@ -1,5 +1,5 @@
 {
-  "name": "one-planet-crowd-code-challenge-backend",
+  "name": "hacker-news-api-top-10-words-from-publications-app-backend",
   "version": "1.0.0",
   "main": "./dist/index.js",
   "license": "MIT",
